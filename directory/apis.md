@@ -272,4 +272,6 @@ x402-enabled APIs and production services. No API keys. No accounts. Pay USDC pe
 - [Vega Article Summarizer](https://summarize.kramsg1online.com/summarize) — Summarize articles and URLs into key points. x402 on Base mainnet, $0.02 USDC per call. `POST /summarize {"url": "..."}`. (OpenAPI: https://summarize.kramsg1online.com/openapi.json)
 - [Brian Booms x402 Store](https://pay.brianbooms.com/api/v1/buy/wallpaper-pack-vol1) — 33 digital products (music licenses, podcast packs, sample packs, custom commissions, wallpapers) sold via x402 micropayments in USDC on Base, Polygon, Arbitrum, Avalanche, and Solana, priced $0.05–$999 with instant download delivery. ([Catalog](https://brianbooms.com/.well-known/purchase-catalog.json))
 
-- [Agent Embassy](https://agent-embassy.fly.dev/v1/check/verify) — Agents pay per call in USDC via x402 for verified web checks with signed Outcome Receipts, encrypted recovery registration, and GPU market data.
+- [Agent Embassy](https://agent-embassy.fly.dev/v1/check/verify)
+
+- [Council of AI](https://councilof.ai) — Independent AI-measurement doors over x402: signed proofs, evidence bundles, attestations and live feeds, each answering a live 402. Verification stays free at /gspc-verify. — Agents pay per call in USDC via x402 for verified web checks with signed Outcome Receipts, encrypted recovery registration, and GPU market data.
